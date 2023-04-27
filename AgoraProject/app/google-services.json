@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320805159565",
+    "firebase_url": "https://agorachatproject-default-rtdb.firebaseio.com",
+    "project_id": "agorachatproject",
+    "storage_bucket": "agorachatproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320805159565:android:363eeb279c459abb9e58c4",
+        "android_client_info": {
+          "package_name": "br.com.application.agoraproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320805159565-vc8almvgbs4jhlc75ljstki736dfp7fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.application.agoraproject",
+            "certificate_hash": "2d08b23292502cb80f25e72a50996f35e4a67f4b"
+          }
+        },
+        {
+          "client_id": "320805159565-2g14cs8369qub6prg7vdcb4nbu5alic0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPQi-GgYHwog96_1gqHttUBbyWqeBExM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320805159565-2g14cs8369qub6prg7vdcb4nbu5alic0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
